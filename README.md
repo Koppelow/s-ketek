@@ -127,3 +127,5 @@ In addition to code for the programming assignments, this repository also contai
 * [`exams`](exams/): Final exams from previous years, including rough solution sketches.
 
 Lastly, some notes are available regarding [administrative information](./administrivia.md) about the course, plus some [background context](./notes.md) about the course.
+
+bruh
